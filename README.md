@@ -2,6 +2,12 @@
 
 Uma evolução do projeto AluraBooks original, agora com funcionalidades interativas desenvolvidas em JavaScript. Esta segunda versão mantém o design refinado da primeira iteração e adiciona recursos dinâmicos como filtragem, ordenação e integração com API externa para criar uma experiência completa de catálogo de livros de tecnologia.
 
+## 🌐 Demo Online
+
+**Acesse a aplicação:** [https://alurabooks-2-js.vercel.app/](https://alurabooks-2-js.vercel.app/)
+
+*Versão hospedada no Vercel para demonstração das funcionalidades.*
+
 ## 🔄 Evolução do Projeto
 
 Este projeto representa a **segunda fase** do AluraBooks:
@@ -88,6 +94,11 @@ calcularValorTotalDeLivrosDisponiveis(livros)
 
 ## 🚀 Como Executar
 
+### Opção 1: Demo Online
+Acesse diretamente: **[https://alurabooks-2-js.vercel.app/](https://alurabooks-2-js.vercel.app/)**
+
+### Opção 2: Executar Localmente
+
 1. Clone o repositório:
 ```bash
 git clone [seu-repositorio]
@@ -158,5 +169,3 @@ Este projeto foi desenvolvido para fins educacionais durante o curso da Alura.
 **Projeto desenvolvido em duas etapas:**
 1. **Primeira fase**: Desenvolvimento do design e layout (HTML + CSS)
 2. **Segunda fase**: Implementação de funcionalidades interativas (JavaScript + API)
-
-*Parte do curso "JavaScript: métodos de array" da Alura* 🎯
